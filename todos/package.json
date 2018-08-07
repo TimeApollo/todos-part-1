@@ -2,7 +2,7 @@
   "name": "todos",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://TimeApollo.github.io/todos-part-1",
+  "homepage": "https://TimeApollo.github.io/todos-part-1/todos",
   "dependencies": {
     "gh-pages": "^1.2.0",
     "react": "^16.4.2",
